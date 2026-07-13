@@ -8,3 +8,5 @@ MarkupSafe==3.0.3
 Werkzeug==3.1.8
 gunicorn==23.0.0
 flask-cors
+--find-links https://download.pytorch.org/whl/cpu/torch_stable.html
+torch==2.2.1+cpu
